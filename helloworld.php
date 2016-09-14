@@ -56,7 +56,8 @@
 <br>
 
 <?php
-
-	echo date("l, d M Y. H:i:s");
+	
+	
+	echo date("l, jS F Y. H:i:s");
 
 ?>
